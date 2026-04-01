@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{EACF852E-634C-15D3-D34D-1D440574AB11}</ProjectGuid>
+    <ProjectGuid>{0198F894-F63C-B7F1-E048-9020FAEB523B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,12 +58,13 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\script\MoveController.cs" />
     <Compile Include="Assets\script\BulletMove.cs" />
+    <Compile Include="Assets\script\CutLine.cs" />
     <Compile Include="Assets\script\BulletFire.cs" />
     <Compile Include="Assets\script\MonsterMove.cs" />
     <Compile Include="Assets\script\MonsterManager.cs" />
-    <Compile Include="Assets\script\CutLine.cs" />
+    <Compile Include="Assets\script\MoveController.cs" />
+    <Compile Include="Assets\script\Background.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
