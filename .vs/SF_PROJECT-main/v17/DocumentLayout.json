@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E72FB8-65F0-CD3F-C9F3-EF01CEB73179}|Assembly-CSharp.csproj|c:\\users\\user\\downloads\\sf_project-main\\assets\\script\\bigbulletfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E72FB8-65F0-CD3F-C9F3-EF01CEB73179}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bigbulletfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E72FB8-65F0-CD3F-C9F3-EF01CEB73179}|Assembly-CSharp.csproj|C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\assets\\script\\monstermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E72FB8-65F0-CD3F-C9F3-EF01CEB73179}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\monstermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E72FB8-65F0-CD3F-C9F3-EF01CEB73179}|Assembly-CSharp.csproj|C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\assets\\script\\bulletfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E72FB8-65F0-CD3F-C9F3-EF01CEB73179}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bulletfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E72FB8-65F0-CD3F-C9F3-EF01CEB73179}|Assembly-CSharp.csproj|C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\assets\\script\\bulletmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E72FB8-65F0-CD3F-C9F3-EF01CEB73179}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bulletmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E72FB8-65F0-CD3F-C9F3-EF01CEB73179}|Assembly-CSharp.csproj|c:\\users\\user\\downloads\\sf_project-main\\assets\\script\\bigbulletmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E72FB8-65F0-CD3F-C9F3-EF01CEB73179}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bigbulletmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E72FB8-65F0-CD3F-C9F3-EF01CEB73179}|Assembly-CSharp.csproj|C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\assets\\script\\movecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E72FB8-65F0-CD3F-C9F3-EF01CEB73179}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\movecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BigBulletMove.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\Assets\\script\\BigBulletMove.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\BigBulletMove.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\Assets\\script\\BigBulletMove.cs",
+              "RelativeToolTip": "Assets\\script\\BigBulletMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:14:02.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BigBulletFire.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\Assets\\script\\BigBulletFire.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\BigBulletFire.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\Assets\\script\\BigBulletFire.cs",
+              "RelativeToolTip": "Assets\\script\\BigBulletFire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:12:50.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BulletFire.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\Assets\\script\\BulletFire.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\BulletFire.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\Assets\\script\\BulletFire.cs",
+              "RelativeToolTip": "Assets\\script\\BulletFire.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:10:24.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BulletMove.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\Assets\\script\\BulletMove.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\BulletMove.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\Assets\\script\\BulletMove.cs",
+              "RelativeToolTip": "Assets\\script\\BulletMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:10:10.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonsterMove.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\Assets\\script\\MonsterMove.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\MonsterMove.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\Assets\\script\\MonsterMove.cs",
+              "RelativeToolTip": "Assets\\script\\MonsterMove.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:33:51.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoveController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\Assets\\script\\MoveController.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\MoveController.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\SF_PROJECT-main\\Assets\\script\\MoveController.cs",
+              "RelativeToolTip": "Assets\\script\\MoveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:31:27.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
